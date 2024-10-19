@@ -1,22 +1,27 @@
 ## 19CS408--ATM
 <br>
 ```
- NAME: Pranavesh Saikumar
- REG NO: 212223040149
+NAME: Pranavesh Saikumar
+REG NO: 212223040149
 ```
 <br>
+
 ## USE CASE DIAGRAM:
-![image](https://github.com/user-attachments/assets/6022cb06-3517-4b2c-84c9-d71dd49cf3bc)
-<br><br><br><br><br><br><br><br>
+![image](https://github.com/user-attachments/assets/fc789817-4e6f-44e8-a489-4dfe0b506bc2)
+
+
 ## ACTIVITY DIAGRAM:
-![image](https://github.com/user-attachments/assets/acfe8921-144f-4e59-8f22-8e0ac111c73d)
-<br><br><br><br><br><br><br><br>
+![image](https://github.com/user-attachments/assets/6c9cd369-7fee-48c3-8b9a-3fcfbad8978b)
+
+
 ## SEQUENCE DIAGRAM:
-![image](https://github.com/user-attachments/assets/c9012417-7e45-4a91-aaac-abc53194343c)
-<br><br><br><br><br><br><br><br>
+![image](https://github.com/user-attachments/assets/8dc2e3ae-1d9f-4709-b047-50fc730d2877)
+
+
 ## CLASS DIAGRAM:
-![image](https://github.com/user-attachments/assets/0a5fe471-5d59-46c0-8f30-35f6885df7df)
+![image](https://github.com/user-attachments/assets/91ce8b9f-4add-4f1f-b552-44bf88a971e5)
+
 
 
 ## RESULT:
-Thus, all the UML diagrams for ATM banking system are successfully completed with the help of StarUML.
+The UML diagrams for ATM banking system are successfully created using star uml tool.

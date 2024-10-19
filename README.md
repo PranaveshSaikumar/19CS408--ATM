@@ -26,4 +26,4 @@ REG NO: 212223040149
 
 
 ## RESULT:
-The UML diagrams for ATM banking system are successfully created using star uml tool.
+Thus, all the UML diagrams are successfully completed with the help of StarUML.
